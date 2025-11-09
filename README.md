@@ -38,3 +38,7 @@ Valid settings:
 `default_volume (int)`: Default volume from 0-100.
 
 `default_sound (str)`: Seagull sound to use. Valid options: seagull, sad seagull, angry seagull, confused seagull, disgust seagull, robot seagull, alarm seagull, Seagull 2, sea gull.
+
+`autostart (str)`: Enable/disable autostart feature. Valid options: yes/no.
+
+`autostart_delay (int)`: Delay seconds for the autostart feature.
